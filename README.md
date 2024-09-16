@@ -38,4 +38,4 @@ We utilize the smart rollup of Tezos and Etherlink Chain, which offers:
 
 - Low block confirmation times
 - Low gas fees
-  This tech stack enables fast and secure identity verification while maintaining user privacy.
+This tech stack enables fast and secure identity verification while maintaining user privacy.
